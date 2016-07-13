@@ -1,0 +1,71 @@
+        IPay Bus Ticket         
+  --------------------------    
+     <<from>>to<<to>>
+   Journey Date: <<joudate>>
+     Seat nos: <<seatnos>>
+      PNR: <<tno>>
+     Order ID: <<orderid>>
+ Booked:<<booking time>>
+      Booking ICP: <<retid>>
+  --------------------------    
+     <<service name>>
+       <<nonac>>
+    Reporting Time:<<reporttime>>
+    Departure Time:<<deptime>>
+     Service #<<srvno>>
+      <<from>>to<<to>>
+        Boarding Point          
+      <<boarding point>>
+  --------------------------    
+     TRAVELLER / SEAT           
+       <<passengerdata>>
+  --------------------------    
+   Total Amount Rs.<<amon>>
+  Above amount is inclusive of  
+    all applicable taxes        
+       and charges.             
+  --------------------------    
+        Customer Support        
+       <<service name>>
+
+   (Please call above number to 
+    Obtain Driver’s Number)     
+          IPay Care             
+       +91-40-30148300          
+  --------------------------    
+      Terms and Conditions      
+  * Amount will be refunded     
+  after deducting cancellation  
+  service charges.              
+  1. The arrival and departure  
+  mentioned herein are only     
+  tentative timings.            
+  2. Passengers must arrive to  
+  pickup point at least 15 min. 
+  before.                       
+  3. IPay is not responsible    
+  for any accidents or loss of  
+  passenger belongings, for any 
+  delay, change in bus, Change  
+  in seat number or any         
+  inconvenience during the      
+  journey due to breakdown of   
+  the vehicle or other reasons  
+  beyond the control of IPay.   
+  4. In case of booking/ service
+  cancelation, the refund will  
+  be given only to the customer/
+  passenger who booked the      
+  ticket from IPay.             
+  5. Cancellation charges are   
+  applicable on Original fare   
+  only and may include IPay     
+  Cancellation charges as well. 
+  --------------------------    
+      Powered By IPay           
+        www.ipay.in             
+                                
+ ***THANK YOU VISIT AGAIN***    
+  --------------------------      
+                                   
+                                  
